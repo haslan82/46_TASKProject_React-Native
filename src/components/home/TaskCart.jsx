@@ -14,14 +14,16 @@ const TaskCart = ({item}) => {
    onPress={()=> navigation.navigate(TASKDETAİL,{item:item})} 
    style={styles.container}>
     
-    <View
+     <View
         style={{
-          backgroundColor: taskValues.find(task => task.status===item.status)?.color,
+          backgroundColor : taskValues.find(task => task.status===item.status)?.color,
           padding: 3,
           borderRadius: 5,
         }}>
         {taskValues.find(task => task.status === item?.status)?.icon}
-      </View>
+      </View> 
+
+{/* <View style={{ backgroundColor: taskValues.find(task => task.status === item?.status)?.color || '#ccc', padding: 3, borderRadius: 5, }} > {taskValues.find(task => task.status === item?.status)?.icon || <Text>?</Text>} </View> */}
 
 
 
