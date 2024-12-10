@@ -15,7 +15,7 @@ React Native ile geliştirdiğim MyTasks uygulaması, günlük görevlerinizi ko
 
 ## Gif
 
-![](./src/assets/46%20tasks.mp4)
+![](./src/assets/46tasks-ezgif.com-video-to-gif-converter.gif)
 
 
 ### Kütüphane
