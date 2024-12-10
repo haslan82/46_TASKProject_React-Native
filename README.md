@@ -12,12 +12,6 @@ React Native ile geliştirdiğim MyTasks uygulaması, günlük görevlerinizi ko
 #ReactNative #MobilUygulama #GörevYönetimi #Formik #Yup #AsyncStorage #MyTasks #Üretkenlik #MobilGeliştirme
 
 
-
-## Gif
-
-![](./src/assets/46tasks-ezgif.com-video-to-gif-converter.gif)
-
-
 ### Kütüphane
 
 React-navigation
@@ -37,6 +31,10 @@ iconsax-react-native
 npm i iconsax-react-native react-native-svg
 https://momentjs.com/  // moment kütüphanesi
 
+
+## Gif
+
+![](./src/assets/46tasks-ezgif.com-video-to-gif-converter.gif)
 
 
 ###  Designed by <a href="https://www.linkedin.com/in/huseyin-aslan-128519203/“target="_blank">Hüseyin ASLAN</a> 
