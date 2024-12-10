@@ -37,4 +37,4 @@ https://momentjs.com/  // moment kütüphanesi
 ![](./src/assets/46tasks-ezgif.com-video-to-gif-converter.gif)
 
 
-###  Designed by <a href="https://www.linkedin.com/in/huseyin-aslan-128519203/“target="_blank">Hüseyin ASLAN</a> 
+##  Designed by <a href="https://www.linkedin.com/in/huseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
