@@ -20,6 +20,21 @@ React Native ile geliştirdiğim MyTasks uygulaması, günlük görevlerinizi ko
 
 ### Kütüphane
 
+React-navigation
+
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+Formik - Yup
+
+npm install formik --save
+npm install yup --save
+UI Kitten
+
+npm i @ui-kitten/components @eva-design/eva react-native-svg
+iconsax-react-native
+
+npm i iconsax-react-native react-native-svg
 https://momentjs.com/  // moment kütüphanesi
 
 
