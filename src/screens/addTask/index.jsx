@@ -31,8 +31,8 @@ import uuid from 'react-native-uuid';
       <Formik
         initialValues={{
           id: uuid.v4(),
-          title: 'Yazılım',
-          description: 'Yazılım react native ders çalışılacak',
+          title: '',
+          description: '',
           startDate: null,
           endDate: null,
           category: null,
