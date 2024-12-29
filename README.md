@@ -8,7 +8,6 @@ React Native ile geliştirdiğim MyTasks uygulaması, günlük görevlerinizi ko
 ✅ Form Doğrulama: Formik ve Yup ile kullanıcı dostu ve hatasız giriş deneyimi.
 ✅ Basit ve İşlevsel Arayüz: Temiz tasarım, sezgisel kullanım.
 
-
 #ReactNative #MobilUygulama #GörevYönetimi #Formik #Yup #AsyncStorage #MyTasks #Üretkenlik #MobilGeliştirme
 
 
